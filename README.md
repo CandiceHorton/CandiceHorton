@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CandiceHorton
 - 👀 I’m interested in all things UX
-- 🌱 I’m currently learning creative computing at Bath spa (thanks Mr Sunak!)
+- 🌱 I’m currently learning all about creative computing at Bath spa (thanks Mr Sunak!)
 - 💞️ I’m looking to collaborate on not much yet, maybe a quiz about the best biscuits.
 - 📫 you can reach me via slack (if you are on my course)
 
